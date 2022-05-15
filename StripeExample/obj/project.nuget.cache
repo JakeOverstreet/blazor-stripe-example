@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0wsfmjG5zJB3kKdyX0riPXBOsnckH6vvw7aT8XAjte2VMEiP2ri4wMpKTWMsiQOeHzUaZKS+gcsvVsHMEkdE+Q==",
+  "dgSpecHash": "DrzKcBUu0uh6ApDTzr5WYI4gKS/Q2zVmIr2rQ74yn4aF6yRaNayRXcmlK2H31iEN4etKEbcyNzuNyRmr90B+mA==",
   "success": true,
-  "projectFilePath": "E:\\repos\\blazor-stripe-example\\StripeExample\\StripeExample.csproj",
+  "projectFilePath": "E:\\repos\\JakeOverstreet\\blazor-stripe-example\\StripeExample\\StripeExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
